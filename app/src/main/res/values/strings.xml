@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SaveListObjectSharedPreferences</string>
+    <string name="click_me_show_list_user">Click me show list User</string>
+</resources>
